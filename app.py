@@ -6,3 +6,4 @@ def is_even(*args):
             print(f"{num} isn't a even number.")     
 
 is_even( 10 , 1 , 20 )
+print("amin coder") 
