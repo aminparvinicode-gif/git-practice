@@ -1,4 +1,3 @@
-
 def is_even(*args):
     name = 'justice!'
     for num in args :
@@ -9,4 +8,3 @@ def is_even(*args):
     for justice in range(1 , 10):
         print(name)
 is_even( 10 , 1 , 20 )
-
