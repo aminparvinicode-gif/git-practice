@@ -1,3 +1,4 @@
+
 def is_even(*args):
     name = 'justice!'
     for num in args :
