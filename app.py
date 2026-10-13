@@ -6,3 +6,4 @@ def is_even(*args):
             print(f"{num} isn't a even number.")     
 
 is_even( 10 , 1 , 20 )
+is_even( 20 , 30 ,24 )
